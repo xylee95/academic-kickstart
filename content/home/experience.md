@@ -22,25 +22,40 @@ date_format = "Jan 2006"
   company = "Iowa State University"
   company_url = ""
   location = ""
-  date_start = "2017"
+  date_start = "2017-08-01"
   date_end = ""
-
-
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 [[experience]]
+  title = "Graduate Research Assistant"
+  company = "Iowa State University"
+  company_url = ""
+  location = ""
+  date_start = "2017-08-01"
+  date_end = "2018-05-01"
+  description = """Description"""
+  
+ [[experience]]
   title = "Intern"
   company = "Lawrence Livermore National Laboratory"
   company_url = ""
   location = ""
-  date_start = "2019"
-  date_end = ""
+  date_start = "2019-05-01"
+  date_end = "2019-08-01"
+  description = """Description"""
 
-  
 [[experience]]
   title = "Intern"
   company = "Altair Engineering"
   company_url = ""
   location = ""
-  date_start = "2016"
-  date_end = ""
+  date_start = "2017-03-01"
+  date_end = "2017-08-01"
+  description = """Description"""
 
 +++
