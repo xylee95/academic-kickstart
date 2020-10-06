@@ -24,9 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017"
   date_end = ""
-  description = """
-
-  """
+  description = """ """
 
 [[experience]]
   title = "Intern"
@@ -44,5 +42,5 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2016"
   date_end = ""
-  description = """ "
+  description = """ """
 +++
