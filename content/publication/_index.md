@@ -9,7 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
+header: Spatiotemporally Constrained Action Space Attacks on Deep Reinforcement Learning Agents
+  caption: "Abstract"
   image: ""
 ---
