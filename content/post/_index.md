@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Post
 
 # View.
 #   1 = List
@@ -8,7 +8,7 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: Model-Based RL
+header:
   caption: ""
   image: ""
 ---
