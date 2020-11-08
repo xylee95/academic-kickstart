@@ -22,7 +22,7 @@ publication_short: ""
 abstract: Robustness of Deep Reinforcement Learning (DRL) algorithms towards adversarial attacks in real world applications such as those deployed in cyber-physical systems (CPS) are of increasing concern. Numerous studies have investigated the mechanisms of attacks on the RL agent's state space. Nonetheless, attacks on the RL agent's action space (AS) (corresponding to actuators in engineering systems) are equally perverse; such attacks are relatively less studied in the ML literature. In this work, we first frame the problem as an optimization problem of minimizing the cumulative reward of an RL agent with decoupled constraints as the budget of attack. We propose a white-box Myopic Action Space (MAS) attack algorithm that distributes the attacks across the action space dimensions. Next, we reformulate the optimization problem above with the same objective function, but with a temporally coupled constraint on the attack budget to take into account the approximated dynamics of the agent. This leads to the white-box Look-ahead Action Space (LAS) attack algorithm that distributes the attacks across the action and temporal dimensions. Our results shows that using the same amount of resources, the LAS attack deteriorates the agent's performance significantly more than the MAS attack. This reveals the possibility that with limited resource, an adversary can utilize the agent's dynamics to malevolently craft attacks that causes the agent to fail. Additionally, we leverage these attack strategies as a possible tool to gain insights on the potential vulnerabilities of DRL agents.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this work, we develop two attack models which perturbs the RL policy's actions with limited perturbation budget. We frame these attack models as constrained optimization problems and show that such attacks are feasible. The first attack model attacks the policy in a static manner using the gradient of the action probabilities. The second model plans for a sequence of attack by leveraging the dynamics of the policy. Our results demonstrate that by using the planning-based attack, the attacks end up having a much more severe effect than the static attack, under equivalent limited perturbation budgets. We further show how the analysis of these attacks are used to reveal potential weak points in the RL policy.
 
 tags:
 - Source Themes
@@ -31,12 +31,12 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/abs/1909.02583
 url_code: '#'
-url_dataset: '#'
+# url_dataset: '#'
 url_poster: '#'
-url_project: ''
-url_slides: ''
+# url_project: ''
+# url_slides: ''
 url_source: '#'
 url_video: '#'
 
