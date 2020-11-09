@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bernard Lee
+title: Xian Yeow Lee
 
 # Username (this should match the folder name)
 authors:
