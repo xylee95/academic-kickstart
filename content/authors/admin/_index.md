@@ -23,6 +23,7 @@ bio: My research interests include applications of AI methods to engineering pro
 interests:
 - Reinforcement Learning
 - Generative Models
+- Computer Vision
 - Deep Learning
 - Artificial Intelligence
 
