@@ -25,7 +25,7 @@ abstract:The problem of the efficient design of material microstructures exhibit
 
 
 # Summary. An optional shortened abstract.
-summary:
+summary:The problem of the efficient design of material microstructures exhibiting desired properties spans a variety of engineering and science applications. The ability to rapidly generate microstructures that exhibit user-specified property distributions can transform the iterative process of traditional microstructure-sensitive design. We reformulate the microstructure design process using a constrained generative adversarial network (GAN) model. This approach explicitly encodes invariance constraints within GANs to generate two-phase morphologies for photovoltaic applications obeying design specifications: specifically, user-defined short-circuit current density and fill factor combinations. Such invariance constraints can be represented by differentiable, deep learning-based surrogates of full physics models mapping microstructures to photovoltaic properties. Furthermore, we propose a multi-fidelity surrogate that reduces expensive label requirements by a factor of five. Our framework enables the incorporation of expensive or non-differentiable constraints for the fast generation of microstructures (in 190 ms) with user-defined properties. Such proposed physics-aware data-driven methods for inverse design problems can be used to considerably accelerate the field of microstructure-sensitive design.
 
 tags:
 - Source Themes
@@ -62,5 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
