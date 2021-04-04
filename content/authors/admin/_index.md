@@ -24,7 +24,7 @@ interests:
 - Reinforcement Learning
 - Generative Models
 - Deep Learning
-- Anything engineering and science
+- Artificial Intelligence
 
 education:
   courses:
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Site under construction!
+I'm a Mechanical Engineering PhD student at Iowa State University with 3 years of research experience working on developing deep learning methods to solve engineering and science problems. Over the course of my work, I've had the opportunity to work on various topics such as deep reinforcement learning and generative modeling for inverse design problems, computer vision for manufacturing applications, and the development of robust machine learning algorithms. 
