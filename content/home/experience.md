@@ -24,38 +24,32 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """ Perform research to apply deep learning methodologies for various engineering and science problems"""
 [[experience]]
-  title = "Graduate Research Assistant"
+  title = "Graduate Teaching Assistant"
   company = "Iowa State University"
   company_url = ""
   location = ""
   date_start = "2017-08-01"
   date_end = "2018-05-01"
-  description = """Description"""
+  description = """Facilitated undergraduate-level laboratory sessions on engineering measurement & instrumentation methods"""
   
  [[experience]]
-  title = "Intern"
+  title = "Computational Engineering Intern"
   company = "Lawrence Livermore National Laboratory"
   company_url = ""
   location = ""
   date_start = "2019-05-01"
   date_end = "2019-08-01"
-  description = """Description"""
+  description = """Developed a computer vision framework for part quality detection and parameter optimzation for an additive manufacturing platform"""
 
 [[experience]]
-  title = "Intern"
+  title = "Application Intern"
   company = "Altair Engineering"
   company_url = ""
   location = ""
   date_start = "2017-03-01"
   date_end = "2017-08-01"
-  description = """Description"""
+  description = """Conducted software training sessions & performed engineering simulations for benchmark case studies"""
 
 +++
